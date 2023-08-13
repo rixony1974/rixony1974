@@ -18,6 +18,7 @@
 - **Mentor** within the SBSS/Elder Brother, Elder Sister project _(4 years)_
 - Participation in student exchange programs
 
+
 ## Education and Certifications
 - Student at the Faculty of Information Technology at University "Vitez"
 - Winner of ITReboot challenge 2022
