@@ -1,5 +1,5 @@
 # Rijad Maglić
-
+ 
 ## Basic Information
 
 - **Email:** rijad.maglic@unvi.edu.ba
