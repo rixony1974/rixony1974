@@ -1,7 +1,7 @@
 # Rijad Maglić
 
 ## Basic Information
-.
+
 - **Email:** rijad.maglic@unvi.edu.ba
 - **Nationality:** Bosniak
 - **Date of Birth:** March 12, 2001
