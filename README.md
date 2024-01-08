@@ -22,11 +22,7 @@
 ## Education and Certifications
 - Student at the Faculty of Information Technology at University "Vitez"
 - Winner of ITReboot challenge 2022
-- Multiple awards for web development on platforms like Udemy
-- Certified graphic designer
 - Google Advanced Analytics Certified
-- Google Digital Marketing
-- COMPtia Pentest +
 - Top 1% hacker on tryhackme website (consistently ranked first in Bosnia and Herzegovina on a monthly basis)
 - C2 English Language Program and diploma awarded by the U.S. Embassy in Bosnia and Herzegovina
 - A1 German course
@@ -35,7 +31,7 @@
 
 ## Skills
 - Four years of experience in graphic design
-- Two years of experience in fullstack development for website and logo projects as a volunteer and freelancer
+- Two years of experience in frontend development for website and logo projects as a volunteer and freelancer
 - Owner of one of the largest Discord servers (Tech Central) for technical support
 - Strong communication and presentation skills
 - Adaptable in both independent and team work
